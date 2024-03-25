@@ -26,17 +26,6 @@ There are 2 mini services that connect directly with its apis:
 
 
 
-### Built With
-
-This section should list any major frameworks/libraries used for your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Python][python-shield]][python-url]
-* [![Flask][flask-shield]][flask-url]
-
-<p align="right">(<a href="#page-top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
